@@ -1,0 +1,4 @@
+pandas==1.4.2
+streamlit==1.8.1
+plotly==5.7.0
+researchpy==0.3.2

@@ -1,0 +1,45 @@
+﻿state,Q1,Q2,Q3,Q4,possible,seasonal,state code
+Alabama,,,,,n,,AL
+Arizona,,low,high,,n,,AZ
+Arkansas,low,,high,,n,,AR
+California,high,,,low,y,yes,CA
+Colorado,low,,high,,y,yes,CO
+Connecticut,low,,,,n,,CT
+Florida,high,,low,,y,,FL
+Georgia,,,,,n,,GA
+Hawaii,,,,,n,,HI
+Idaho,,low,,high,y,yes,ID
+Illinois,,,,,n,,IL
+Indiana,low,,high,,y,,IN
+Iowa,low,,,high,n,,IA
+Kansas,low,,high,,y,yes,KS
+Kentucky,,,,,n,,KY
+Louisiana,,,,,n,,LA
+Maine,,low,high,,y,,ME
+Maryland,low,high,low,high,n,,MD
+Massachusetts,low,,high,,y,yes,MA
+Michigan,low,,high,,y,yes,MI
+Minnesota,low,,high,,y,yes,MN
+Mississippi,,high,,low,y,yes,MS
+Missouri,low,,high,,n,,MO
+Montana,low,,high,,y,yes,MT
+Nebraska,low,,high,,y,yes,NE
+New Jersey,low,,high,,y,yes,NJ
+New Mexico,,,,,n,,NM
+New York,low,,high,,y,yes,NY
+North Carolina,low,,,,n,,NC
+North Dakota,low,,high,,y,yes,ND
+Ohio,low,,high,,y,yes,OH
+Oklahoma,high,,,low,y,yes,OK
+Oregon,,,,,n,,OR
+Pennsylvania,low,,,high,n,,PA
+South Carolina,,high,,low,n,,SC
+South Dakota,low,,high,,y,yes,SD
+Tennessee,low,,high,,n,,TN
+Texas,,high,low,,y,yes,TX
+Utah,low,,,high,y,yes,UT
+Vermont,low,,,,n,,VT
+Virginia,low,,high,,n,,VA
+Washington,low,,,,n,,WA
+West Virginia,low,,high,,y,,WV
+Wisconsin,low,,high,,y,yes,WI
