@@ -42,6 +42,10 @@ TRANSPARENT = 'rgba(0,0,0,0)'
 STRESSORS = ["varroa mites", "other pests", "diseases", "pesticides", "other", "unknown"]
 COUNTS = ["initial count", "max", "lost", "lost perc", "added", "renovated", "renovated perc", "new count", "end count"]
 
+# round remaining columns
+linear_df[STRESSORS] = linear_df[STRESSORS].round(2)
+linear_df[COUNTS] = linear_df[COUNTS].round()
+# linear_df.to_csv("filled_colony_data.csv", index=False)
 
 def stressorImpactMeasure():
     # determine which stressor has the greatest impact on bee colonies, on average
