@@ -1,1 +1,3 @@
+Like all pollinators, bees are important to the environment as they promote plant growth and reproduction. In particular, honey bee colonies managed by beekeepers across the United States play a crucial role in fueling the country’s food supply. Farmers and growers need honey bees to pollinate their crops to ensure better crop growth and yield.
 
+However, honey bee colonies have declined over the years as Colony Collapse Disorder (CCD) poses a serious threat to their overall well-being and future. While a scientific cause has not been identified, several stressors that contribute to the downfall of colony numbers have been studied and recorded each quarter from 2015 to 2020.
