@@ -1,4 +1,4 @@
-pandas
-streamlit
-plotly
-researchpy
+pandas==1.5.3
+streamlit==1.17.0
+plotly-express==0.4.1
+researchpy==0.3.5
